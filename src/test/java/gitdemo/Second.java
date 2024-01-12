@@ -1,9 +1,9 @@
 package gitdemo;
 
-public class Demo {
+public class Second {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Gopi new branch code");
 
 	}
 
